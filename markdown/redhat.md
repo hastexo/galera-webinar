@@ -8,41 +8,15 @@ Default deployment stack
 Note: Reference: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/index.html
 
 
-Deployment checklist
-# 1
-### Install Foreman
+<!-- .slide: data-background-image="images/6526.png" data-background-size="contain" -->
+<div class="caption">Source: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide</div>
 
 
-```sh
-yum install rhel-osp-installer
-rhel-osp-installer
-```
+
+<!-- .slide: data-background-image="images/6527.png" data-background-size="contain" -->
 
 
-Deployment checklist
-# 2
-### Install OpenStack nodes
+<!-- .slide: data-background-image="images/6528.png" data-background-size="contain" -->
 
 
-### Foreman Discovery
-
-
-<!-- .slide: data-background-image="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/images/6098.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/images/6526.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/images/6527.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/images/6528.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/images/6529.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/images/6534.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide/images/5684.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/6529.png" data-background-size="contain" -->
