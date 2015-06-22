@@ -125,6 +125,17 @@ body,
     text-shadow: none;
 }
 
+.reveal .caption {
+  font-size: 0.2em !important;
+  font-family: inherit !important;
+  background: rgba(127,127,127,0.2);
+  padding: 0.1em;
+}
+
+.reveal li {
+  font-size: 0.5em !important;
+}
+
 @media print {
   .reveal h1,
   .reveal h2,
