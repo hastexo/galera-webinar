@@ -9,8 +9,6 @@ Note: Reference: https://access.redhat.com/documentation/en-US/Red_Hat_Enterpris
 
 
 <!-- .slide: data-background-image="images/6526.png" data-background-size="contain" -->
-<div class="caption">Source: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide</div>
-
 
 
 <!-- .slide: data-background-image="images/6527.png" data-background-size="contain" -->
@@ -20,3 +18,6 @@ Note: Reference: https://access.redhat.com/documentation/en-US/Red_Hat_Enterpris
 
 
 <!-- .slide: data-background-image="images/6529.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://redhatstackblog.files.wordpress.com/2014/04/pacemaker-clustered-load-balancer.png" data-background-size="contain" -->

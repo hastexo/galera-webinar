@@ -6,7 +6,9 @@ https://github.com/hastexo/galera-webinar
 Trademarks or registered trademarks used in this presentation are the property of their respective owners.
 
 
-Red Hat documentation images from https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide
+# Credits
+- Red Hat documentation images from https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/6/html/Installer_and_Foreman_Guide
+- Red Hat HA architecture overview from http://redhatstackblog.redhat.com/2014/04/16/the-road-to-high-availability-for-openstack/
 
 
 
