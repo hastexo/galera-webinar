@@ -15,30 +15,6 @@ more specifically Ubuntu Trusty (see
 http://docs.rackspace.com/rpc/api/v10/bk-rpc-installation/content/sec-hosts-deployment-os.html).
 
 
-Deployment checklist
-# 1
-### Install deployment host
-
-
-```sh
-cd /opt
-git clone https://github.com/stackforge/os-ansible-deployment.git
-pip install -r /opt/os-ansible-deployment/requirements.txt
-```
-
-
-Deployment checklist
-# 2
-### Configure target hosts
-Note: This effectively comprises editing a bunch of YAML configuration
-files for Ansible to describe your target host topology.
-
-
-Deployment checklist
-# 3
-### Run Ansible playbooks
-
-
 ### Foundation playbook
 ### `setup-hosts.yml`
 
